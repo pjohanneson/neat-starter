@@ -16,7 +16,7 @@ tags:
 
 ###### This is a Heading h6
 
-[![Spruces @ sunset]]()
+![Spruces @ sunset](src/static/img/IMG_1906-2000.JPG "Spruces, right around sundown")
 
 ## Emphasis
 
